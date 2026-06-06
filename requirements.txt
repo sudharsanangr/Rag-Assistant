@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+youtube-transcript-api
+python-dotenv
+requests
+pandas
+numpy
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+langchain-google-genai
